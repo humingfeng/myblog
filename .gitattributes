@@ -1,4 +1,4 @@
-*.js linguist-language=Springboot
-*.css linguist-language=Springboot
-*.html linguist-language=Springboot
-*.java linguist-language=Springboot
+*.js linguist-language=Spring
+*.css linguist-language=Spring
+*.html linguist-language=Spring
+*.java linguist-language=Spring
